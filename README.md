@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-# Master
-=======
 # develop
->>>>>>> develop
+
